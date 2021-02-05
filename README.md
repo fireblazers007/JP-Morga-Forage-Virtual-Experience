@@ -18,8 +18,11 @@ Some best practices to remember are:
 - Build independent test cases, they should work in case of any changes on the software
 - Use clear naming conventions
 - Having a "test as your code" approach
+<<<<<<< HEAD
  
 #### 2. Use JPMorgan Chase frameworks and tools
 Implement the perspective open source code in prepration for data visualization, the first step is setting up a server in Node.js, React js
 - `TypeScript`
 - `Web Applications`
+=======
+>>>>>>> a2ec04650c06a08030dfda2c3814052b95eb9010
