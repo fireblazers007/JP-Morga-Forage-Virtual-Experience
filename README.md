@@ -1,7 +1,5 @@
 # JP-Morgan-Virtual-Experience
-This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
----
 ## I have worked on the following tasks during the internship
 #### 1. Interface with a stock price data feed 
 
@@ -20,3 +18,8 @@ Some best practices to remember are:
 - Build independent test cases, they should work in case of any changes on the software
 - Use clear naming conventions
 - Having a "test as your code" approach
+ 
+#### 2. Use JPMorgan Chase frameworks and tools
+Implement the perspective open source code in prepration for data visualization, the first step is setting up a server in Node.js, React js
+- `TypeScript`
+- `Web Applications`
